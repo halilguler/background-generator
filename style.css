@@ -25,3 +25,27 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+.btn{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    transition: .5s all; 
+}
+.btn:hover{
+    border:2px solid #f15723;
+    transform: scale(1.05);
+}
+.btn-font{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.15rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+.btn-color{
+    color:#333;
+    background-color: orange;
+}
+.btn-border-r{
+    border: 2px solid #f15723;
+    border-radius: 10px;
+}
