@@ -1,8 +1,8 @@
 # Background-Generator
+background color changes linear-gradient css properties.
 
-
-## Input Type color
+## Input type color new properties
 <code>
-  <input class="color1" type="color" name="color1" value="#00ff00">
-	<input class="color2" type="color" name="color2" value="#ff0000">
+  < input class="color1" type="color" name="color1" value="#00ff00" >
+  < input class="color2" type="color" name="color2" value="#ff0000" >
 </code>
